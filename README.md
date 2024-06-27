@@ -9,7 +9,7 @@ This repository contains a library of my notes on the first module of a Python '
 - **Language:** Python
 - **Platform:** Udemy 
   
-### Section 1 Video Notes
+### Section 2 Video Notes
 - [1 of 5 Command Line Basics](https://github.com/franpanteli/Python-Bootcamp-Module-2-Python-Installation-and-Setup/blob/main/Notes%20on%20Videos%20-%20Module%202%20Python%20Installation%20and%20Setup/1%20of%205%20Command%20Line%20Basics.pdf)
 - [2 of 5 Installing Python (Step by Step)](https://github.com/franpanteli/Python-Bootcamp-Module-2-Python-Installation-and-Setup/blob/main/Notes%20on%20Videos%20-%20Module%202%20Python%20Installation%20and%20Setup/2%20of%205%20Installing%20Python%20(Step%20by%20Step).pdf)
 - [3 of 5 Running Python Code ](https://github.com/franpanteli/Python-Bootcamp-Module-2-Python-Installation-and-Setup/blob/main/Notes%20on%20Videos%20-%20Module%202%20Python%20Installation%20and%20Setup/3%20of%205%20Running%20Python%20Code.pdf)
